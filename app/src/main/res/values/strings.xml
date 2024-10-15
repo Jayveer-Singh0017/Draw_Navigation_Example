@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Draw Navigation</string>
+
+<!--    drawer_items-->
+    <string name="nav_menu">Menu</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_fav">Favourite</string>
+    <string name="nav_orders">Ongoing Orders</string>
+    <string name="nav_history">History</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_terms">Terms and Condition</string>
+    <string name="nav_contact">Contact Us</string>
+    <string name="nav_share">Share</string>
+
+    <string name="mainText">This is demo of the Navigation Drawer</string>
+
+</resources>
